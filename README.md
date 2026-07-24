@@ -26,12 +26,12 @@ Para los datos se utilizo, la base da datos Madrigal, el cuál contempla datos i
     </tr>
     <tr>
     <tr>
-      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">jro20250517_050004</td>
+      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">jro20250517_050004.nc</td>
       <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">17/05/2025</td>
       <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">JRO</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">jro20250518_050004</td>
+      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">jro20250518_050004.nc</td>
       <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">18/05/2025</td>
       <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">JRO</td>
     </tr>

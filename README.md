@@ -6,9 +6,9 @@ Este es un notebook utilizado como introducción al paquete de python [xarray](h
 > Xarray fue inspirado por y se basa fuertemente en pandas, el popular paquete de análisis de datos enfocado en datos tabulares etiquetados. Está particularmente adaptado para trabajar con netCDF, los cuáles fueron la fuente de modelos de datos de Xarray, y se integra estrechamente con dask para computación paralela.
 
 Estos notebook son una reinterpretación en español de la serie "introduction_to_xarray" del usuario [
-coecms-training ](https://github.com/coecms-training/introduction_to_xarray/tree/master). Cuyo formato opcional del tutorial se encuentra en el canal de youtube recomendad para coecms-training  [CLEX CMS youtube channel](https://www.youtube.com/channel/UCSmoK6oWV9O0Hmyt9UdDNsQ)
+coecms-training ](https://github.com/coecms-training/introduction_to_xarray/tree/master). Cuyo formato opcional del tutorial se encuentra en el canal de youtube recomendad por coecms-training (  [CLEX CMS youtube channel](https://www.youtube.com/channel/UCSmoK6oWV9O0Hmyt9UdDNsQ))
 
-Para los datos se utilizo, la base da datos Madrigal, el cuál contempla datos ionosféricos en formato netCDF4. Utilizandose los datos específicos del día de tormeta geomagnética del 16-18 de mayo del 2025, obtenidos del Radio Observatorio de Jicamarca. El fin no es hacer una análisis del evento, sino hacer una breve exploración en función de las herramientas de xarray.
+Para los datos se utilizo, la base da datos [Madrigal](https://cedar.openmadrigal.org/), el cuál contempla datos ionosféricos en formato netCDF4. Utilizandose los datos específicos del día de tormeta geomagnética del 16-18 de mayo del 2025, obtenidos del Radio Observatorio de Jicamarca. El fin no es hacer una análisis del evento, sino hacer una breve exploración en función de las herramientas de xarray.
 
 <table style="width:100%; border-collapse: collapse;">
   <thead>
